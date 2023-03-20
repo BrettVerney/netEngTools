@@ -5,7 +5,7 @@
 ## Software
 
 ### Desktop
-
+- [DHCP Test](https://files.thecybershadow.net/dhcptest/) -  Tool to display the DHCP configuration sent back to a DHCP Client.</br>
 - [Ekahau AI Pro](https://www.ekahau.com/products/ekahau-connect/ai-pro/) -  Powerful Wi-Fi planning and AI design for the most reliable, best performing wireless networks. </br>
 - [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly. Also works with file streaming services such as Google Drive.</br>
 - [FileZilla](https://filezilla-project.org/) - Free and Open Source FTP, FTPS, and SFTP client and server softwaret.</br>
