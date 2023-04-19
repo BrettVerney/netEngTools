@@ -14,7 +14,7 @@
 - [SecureCrt](https://www.vandyke.com/cgi-bin/releases.php?product=securecrt) - Rock solid terminal emulator for Windows, Mac, and Linux. </br>
 - [Technitium MAC Address Changer](https://technitium.com/tmac/) - Instantly change MAC address of network adapters. One-click to restore original MAC. </br>
 - [TFTPD64](https://pjo2.github.io/tftpd64/) - Free, lightweight, opensource IPv6 ready, DHCP, TFTP, DNS, SNTP and Syslog servers as well as a TFTP client. </br>
-- [Visuio](https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software) - Diagramming and vector graphics application. </br>
+- [Visio](https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software) - Diagramming and vector graphics application. </br>
 - [Visual Studio Code](https://code.visualstudio.com/) - A streamlined code editor with support for development operations like debugging, task running, and version control. </br>
 - [Windows Terminal](https://github.com/microsoft/terminal) - Modern, fast, efficient, powerful, and productive terminal application for users of command-line tools and shells like Command Prompt, PowerShell, and WSL. </br>
 - [WinFi](https://winscp.net/eng/download.php) - Absolute best Windows WiFi Analyzer. Powerful WiFi Analytics on-the-go with any Device, any NIC. </br>
