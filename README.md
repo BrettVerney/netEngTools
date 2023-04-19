@@ -11,6 +11,7 @@
 - [FileZilla](https://filezilla-project.org/) - Free and Open Source FTP, FTPS, and SFTP client and server softwaret.</br>
 - [iPerf](https://iperf.fr/) -  tool for active measurements of the maximum achievable bandwidth on IP networks. </br>
 - [Notepad++](https://notepad-plus-plus.org/downloads/) - Notepad++ is a free source code editor and Notepad replacement that supports several languages.</br>
+- [PowerPing](https://github.com/Killeroo/PowerPing) - Improved command line ICMP ping program.</br>
 - [SecureCrt](https://www.vandyke.com/cgi-bin/releases.php?product=securecrt) - Rock solid terminal emulator for Windows, Mac, and Linux. </br>
 - [Technitium MAC Address Changer](https://technitium.com/tmac/) - Instantly change MAC address of network adapters. One-click to restore original MAC. </br>
 - [TFTPD64](https://pjo2.github.io/tftpd64/) - Free, lightweight, opensource IPv6 ready, DHCP, TFTP, DNS, SNTP and Syslog servers as well as a TFTP client. </br>
