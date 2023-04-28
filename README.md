@@ -14,6 +14,7 @@
 - [PowerPing](https://github.com/Killeroo/PowerPing) - Improved command line ICMP ping program.</br>
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - Record a selected area of your screen,and save the animation as a gif or video.</br>
 - [SecureCrt](https://www.vandyke.com/cgi-bin/releases.php?product=securecrt) - Rock solid terminal emulator for Windows, Mac, and Linux. </br>
+- [tcping.exe](https://www.elifulkerson.com/projects/tcping.php) - Ping over a tcp connection. </br>
 - [Technitium MAC Address Changer](https://technitium.com/tmac/) - Instantly change MAC address of network adapters. One-click to restore original MAC. </br>
 - [TFTPD64](https://pjo2.github.io/tftpd64/) - Free, lightweight, opensource IPv6 ready, DHCP, TFTP, DNS, SNTP and Syslog servers as well as a TFTP client. </br>
 - [Visio](https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software) - Diagramming and vector graphics application. </br>
